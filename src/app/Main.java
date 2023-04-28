@@ -1,8 +1,8 @@
 package app;
 
 public class Main {
-    private static int a = 8;
-    private static int b = 2;
+    static int a = 8;
+    static int b = 2;
 
     public static void main(String[] args) {
         System.out.println("My app for Users!");
